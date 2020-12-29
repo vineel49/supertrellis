@@ -1,5 +1,4 @@
-# supertrellis
-Linear prediction based data detection for OFDM systems
+# Linear prediction based data detection of convolutional coded DQPSK in SIMO-OFDM
 
 Also known as suboptimal maximum likelihood detection using a predictive Viterbi algorithm
 
